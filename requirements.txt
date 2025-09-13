@@ -1,5 +1,5 @@
 streamlit
-pandas
+pandas-3.10
 scikit-learn
 joblib
 matplotlib
@@ -7,4 +7,6 @@ shap
 seaborn
 numpy
 plotly
+cloudlib
+
 
