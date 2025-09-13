@@ -6,3 +6,5 @@ matplotlib
 shap
 seaborn
 numpy
+plotly
+
